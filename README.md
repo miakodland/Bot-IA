@@ -10,4 +10,6 @@ Este proyecto permite que los usuarios manden una foto de un gato por Discord y 
 4-tensorflow
 5-pillow
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/09376071-e949-4fbc-8cf9-e3403b9d2b91" />
+<img width="1027" height="982" alt="image" src="https://github.com/user-attachments/assets/f6703aea-d960-45d4-9223-251aaf66f4fc" />
+
+
